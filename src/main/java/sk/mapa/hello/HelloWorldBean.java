@@ -7,7 +7,7 @@ public class HelloWorldBean {
 
 	private static final long serialVersionUID = 1L;
 	
-	private String name;
+	private String name = "Jozko Mrkvicka";
 	
 	public String getName() {
 		return name;
